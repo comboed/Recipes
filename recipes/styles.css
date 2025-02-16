@@ -1,0 +1,18 @@
+body {
+    background-color: orange;
+}
+.yellow-text {
+    color: yellow;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.circular-image {
+    border-radius: 15px;
+}
